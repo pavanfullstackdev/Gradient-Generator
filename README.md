@@ -7,6 +7,8 @@ different styles (pastel, vivid, unique).\
 You can also copy the generated gradient CSS or Tailwind class with a
 single click.
 
+#live demo
+https://gradientgeneratorcool.netlify.app/
 ------------------------------------------------------------------------
 
 ## 🚀 Features
